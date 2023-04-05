@@ -6,7 +6,7 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-USE_PASSAGE:'push-deer',
+
   // 使用微信测试号：公众号APP_ID
 //   APP_ID: 'wx21a2d9aaecde89ba',
 
@@ -18,6 +18,7 @@ USE_PASSAGE:'push-deer',
 
   USERS: [
     {
+      USE_PASSAGE:'push-deer',
       // 想要发送的人的名字
       name: '心如宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
