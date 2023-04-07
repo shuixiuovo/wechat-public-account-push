@@ -392,7 +392,7 @@ const USER_CONFIG = {
   ],
   
   // 默认的课表配置
-  COURSE_SCHEDULE: courseSchedule,
+  COURSE_SCHEDULE: true,
 
   /** 插槽 */
 
